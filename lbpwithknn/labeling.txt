@@ -1,0 +1,3 @@
+1=>black rot
+2=>leaf blight
+3=>measles
